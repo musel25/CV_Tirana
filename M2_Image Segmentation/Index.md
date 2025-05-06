@@ -11,6 +11,8 @@ Universitat Politècnica de Catalunya (Barcelona, Spain)
 - Unsupervised segmentation using clustering algorithms. 
 - Supervised methods using pixelwise classifiers.
 
+## Exercise 2
+
 
 
  
