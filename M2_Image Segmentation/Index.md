@@ -1,4 +1,4 @@
-Computer vision course - Polytechnic University of Tirana
+## Computer Vision course - Polytechnic University of Tirana
 
 Christian Mata, PhD
 contact: christian.mata@upc.edu
