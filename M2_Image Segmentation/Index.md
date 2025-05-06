@@ -5,7 +5,7 @@ contact: christian.mata@upc.edu
 
 Universitat Politècnica de Catalunya (Barcelona, Spain)
 
-# 2. Image segmentation (4 hours): IMAGE SEGMENTATION
+## 2. Image segmentation (4 hours): IMAGE SEGMENTATION
 
 - Thresholding methods
 - Unsupervised segmentation using clustering algorithms. 
