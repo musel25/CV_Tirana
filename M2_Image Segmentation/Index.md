@@ -10,8 +10,7 @@ Universitat Politècnica de Catalunya (Barcelona, Spain)
 - Thresholding methods
 - Unsupervised segmentation using clustering algorithms. 
 - Supervised methods using pixelwise classifiers.
-
-## Exercise 2
+- Exercise 2
 
 
 
