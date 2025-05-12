@@ -31,8 +31,8 @@ import sys
 PACKAGE_MAP = {
     'skimage': 'scikit-image',
     # add more mappings here as needed, e.g.:
-    # 'PIL': 'Pillow',
-    # 'cv2': 'opencv-python',
+    'PIL': 'Pillow',
+    'cv2': 'opencv-python',
 }
 
 
