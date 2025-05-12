@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "cv-tirana"
+version = "0.1.0"
+description = ""
+authors = ["musel25 <muselemmanuel@hotmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+ipykernel = "^6.29.5"
+matplotlib = "^3.10.3"
+numpy = "^2.2.5"
+plotly = "^6.0.1"
+scipy = "^1.15.3"
+scikit-image = "^0.25.2"
+nbformat = "^5.10.4"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
